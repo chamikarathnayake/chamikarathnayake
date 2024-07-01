@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Java, C++
   
-- 👩‍🎓 I am an undergraduate student at Uva Wellassa University of Sri Lanka, pursuing a BSc (Hons) in Industrial Information Technology.
+- 👩‍🎓 I am pursuing a BSc (Hons) in Industrial Information Technology at Uva Wellassa University.
   
 - 👩‍💻 My academic journey in the IT field is fueled by a strong interest in software development, web development.
 
