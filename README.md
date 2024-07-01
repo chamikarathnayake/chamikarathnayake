@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chamika Rathnayake</h1>
 
 - 👀 I’m interested in web developing
-- 🌱 I'm in the process of exploring new technologies and frameworks to advance my capabilities.
-- 💞️ Gain proficiency in key programming languages such as Python, Java, C and JavaScript
+- 🌱 I’m currently learning Java, C++
+- 👩‍🎓 I am an undergraduate student at Uva Wellassa University of Sri Lanka, pursuing a Bachelor of Science with Honours in Industrial Information Technology.
+- 👩‍💻 My academic journey in the IT field is fueled by a strong interest in software development, web development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
