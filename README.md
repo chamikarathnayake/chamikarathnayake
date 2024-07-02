@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamika Rathnayake</h1>
+<h1 align="center">Hi 👋, I'm Anupama Rathnayake</h1>
 
 - 👀 I’m interested in web developing
   
